@@ -144,6 +144,7 @@ main
 
 .rubrica{
   width: 920px;
+  height: auto;
   margin-top: 10px;
   display: grid;
   gap: 10px;
